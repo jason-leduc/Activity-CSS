@@ -1,4 +1,0 @@
-Activity-CSS
-============
-
-CSS activity
